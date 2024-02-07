@@ -71,14 +71,14 @@ async def account_login(bot: Client, m: Message):
        }
     headers = {
         "Host": "elearn.crwilladmin.com",
-        "Token": "",
-        "Usertype": "",
+        "Token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJpYXQiOjE3MDczMDIwNTAsImNvbiI6eyJpc0FkbWluIjpmYWxzZSwiYXVzZXIiOiJVMFZ6TkdGU2NuQlZjR3h5TkZwV09FYzBURGxOZHowOSIsImlkIjoiZFhwRGJqaFdURUZLVXk5ckwwSmhPV3BSTldocWR6MDkiLCJmaXJzdF9uYW1lIjoiTm05cWRXRnFjbEpxSzA5eU5WTnFMekEzT1VNNVVUMDkiLCJlbWFpbCI6IlpIUXJhVWxYU0RaRmJqRXZiV2w2TUhSak5ucEZLekZNTldoTk5VdzNNVlppYW5CWVdXSXJaVmt5TUQwPSIsInBob25lIjoiVDNWS1JYaFlORFJITWtsRWRHdERPVEJ2Vm5WMVVUMDkiLCJyZWZlcnJhbF9jb2RlIjoiVTBGTFpFdERSVlo2TTJodGNUZHNaMjVsUkhaS1p6MDkiLCJkZXZpY2VfdHlwZSI6IndlYiIsImRldmljZV92ZXJzaW9uIjoiQ2hyb21lIDEyMCIsImRldmljZV9tb2RlbCI6InNhZmFyaSIsInJlbW90ZV9hZGRyIjoiMjQwMTo0OTAwOjFjMmE6NmJjZjpmYzNjOmNlNTg6OTFiODoyNGQ0In19.GZM-GPig-_HmdnikvaW8zV12JgpnlDxQL-6nVxzIK1oEhvQWRtU8tcnsUuRDk9PDm6tj6ZngRIXkdyr_AaE3ueUygXrk15rZGkYUFD9WxTn3TBf4jjMxR7vZF9gUdOIg3qryS_pDGXx_vzOA3QzFwb_pGGOmeAWYSixcNMVsjFgRqvQzwQ-g71KzCqQ5Tqi00GbRPN3TYobxRZmy2FRnG8JBYtCCgIFYgppXHOrq1G-QdwjcXTSH7WBVzRZcEtlDafyVQmDe1NAjFkUiRjC8aZMXj27cMELXbMyOZJHNObssqzXFOhMIKJ_POOnN3eUAMaZulm-ydI6RnreY3SpzMg",
+        "Usertype": "2",
         "Appver": "1.55",
         "Apptype": "android",
         "Content-Type": "application/json; charset=utf-8",
         "Content-Length": "313",
         "Accept-Encoding": "gzip, deflate",
-        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 2",
+        "user-agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-J810G Build/QP1A.190711.020",
         'Connection': 'Keep-Alive'
        }
     #proxy_host = ['47.254.153.200:80']
